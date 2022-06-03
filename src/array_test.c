@@ -13,7 +13,7 @@
  * 
  */
 
-#include "array.h"
+#include "../arrays/array.h"
 #include <stdlib.h>
 #include <stdio.h>
 

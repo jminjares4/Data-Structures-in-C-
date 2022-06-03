@@ -1,5 +1,5 @@
 /**
- * @file array.c
+ * @file arrays/src/array.c
  * @author Jesus Minjares (https://github.com/jminjares4)
  * @brief Array source code
  * @version 0.1
