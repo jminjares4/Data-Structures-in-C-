@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+# Ignore VSCode
+.vscode 
+
+# Ignore MacOS
+.DS_Store
+
+# Ignore Doxygen output
+doc/
