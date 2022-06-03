@@ -1,9 +1,27 @@
 var array_8c =
 [
-    [ "find_max", "array_8c.html#acb0ad77c4cd5af4fe7d3cc393268c3be", null ],
-    [ "find_max_index", "array_8c.html#a2611f6fb4e63e0d2f2dcb7d993f9bcae", null ],
-    [ "find_min", "array_8c.html#af3489c369d2089afbefc1f7544ac5260", null ],
-    [ "find_min_index", "array_8c.html#aaf52ac20d846defcf5b512dbee691cf4", null ],
-    [ "find_value", "array_8c.html#a19967532d849715d51fa99dd51730857", null ],
-    [ "print_array", "array_8c.html#a310d2499e5910c2c6f7af67bd18ae397", null ]
+    [ "find_max_char", "array_8c.html#a2e3f07fdee974d2c31e26f2eb37a5192", null ],
+    [ "find_max_f", "array_8c.html#a2807bff4023d4ca8e7b426531a2f0297", null ],
+    [ "find_max_index_char", "array_8c.html#ad4bbf37bbc6385ce37c6313ccacfd2be", null ],
+    [ "find_max_index_f", "array_8c.html#aa79665c018ec94a82b2e011e088f653d", null ],
+    [ "find_max_index_int", "array_8c.html#a6d6119f048c3ce253f8f922697b71136", null ],
+    [ "find_max_index_lf", "array_8c.html#a64506c1ba0cb86e8e3230532554b29a2", null ],
+    [ "find_max_int", "array_8c.html#a2f81912398af31902794a3aa460a499c", null ],
+    [ "find_max_lf", "array_8c.html#aee7e7e19072e4afae0f3116ecec97bc9", null ],
+    [ "find_min_char", "array_8c.html#a215d1596dda6377beb8e38afeba5f351", null ],
+    [ "find_min_f", "array_8c.html#a7b0d2a29d59091e1b532c2bdb7e4a18d", null ],
+    [ "find_min_index_char", "array_8c.html#a5a9d1b51a89fb1c22b21da6f94bccebc", null ],
+    [ "find_min_index_f", "array_8c.html#adecc2b55ed04dd001a90bd86a6ae0ea3", null ],
+    [ "find_min_index_int", "array_8c.html#a48fa6593400aae6b4c29e1970e140578", null ],
+    [ "find_min_index_lf", "array_8c.html#a815912a7ae4de91562bf1bc819cb7f9f", null ],
+    [ "find_min_int", "array_8c.html#a2d1ef0409f2b1eb2909f6632fd8e21a3", null ],
+    [ "find_min_lf", "array_8c.html#a7ea5d7c6d22a2db6ba2c033155cf8199", null ],
+    [ "find_value_char", "array_8c.html#a2f146d8ccc3cbeeb196a91bc03fa4e3f", null ],
+    [ "find_value_f", "array_8c.html#a85972a34801d3cb3399c72281ff34710", null ],
+    [ "find_value_int", "array_8c.html#ab9a4f9b66c59ce115083f1839938dad8", null ],
+    [ "find_value_lf", "array_8c.html#a78903139f31a8b6937592df457aaf657", null ],
+    [ "print_array_char", "array_8c.html#a45201cf1106b80f8a94c57cc40857e9c", null ],
+    [ "print_array_f", "array_8c.html#aefe6d58ae9ee396078017254c7c1f162", null ],
+    [ "print_array_int", "array_8c.html#a268fef7a4abefe723406d1b3b76f6713", null ],
+    [ "print_array_lf", "array_8c.html#a60761a1b5c507bfd5c7fef54f75db9cf", null ]
 ];
