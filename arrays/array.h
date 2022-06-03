@@ -1,5 +1,5 @@
 /**
- * @file array.h
+ * @file arrays/inc/array.h
  * @author Jesus Minjares (https://github.com/jminjares4)
  * @brief Array function API designed for integer array
  * @note Update function by replace desired data type
