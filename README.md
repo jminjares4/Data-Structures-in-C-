@@ -8,7 +8,8 @@ guide for individuals who are interested in developing such programs in C.
 - LinkedList
 
 ## ***Todo***
-- [x] Added Arrays 
+- [x] Added Arrays
+  - [ ] Added new data type support
 - [ ] Update LinkedList
 - [ ] Added Trees
   - [ ] Binary Trees
